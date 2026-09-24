@@ -89,4 +89,4 @@ def predict():
 if __name__ == '__main__':
     # For local development, you might use app.run(debug=True)
     # For deployment, listen on all public IPs
-    app.run(host='0.0.0.0', port=5000)
+    app.run(host='0.0.0.0', port=5001)
