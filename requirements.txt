@@ -2,3 +2,6 @@ torch
 torchvision
 Pillow
 Flask
+Pandas
+scikit-learn
+numpy
